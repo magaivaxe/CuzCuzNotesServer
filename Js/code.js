@@ -15,8 +15,8 @@ function buildNote(){
     '<h2 id='+ id_h +'></h2>'+
     '<p id='+ id_p +'></p>'+
     '<div class="edition">'+
-        '<div class="edit" onclick="editable('+ id_n +','+ id_h +','+ id_p +')"><img src="../cuzcuzNotes/images/pencil.png" class="format imgPencil"></div>'+
-        '<div class="eraser" onclick="eraser('+ id_n +')"><img src="../cuzcuzNotes/images/delete.png" class="format imgDelete"></div>'+
+        '<div class="edit" onclick="editable('+ id_n +','+ id_h +','+ id_p +')"><img src="../images/pencil.png" class="format imgPencil"></div>'+
+        '<div class="eraser" onclick="eraser('+ id_n +')"><img src="../images/delete.png" class="format imgDelete"></div>'+
     '</div>'+
   '</div>';
   mainDiv.appendChild(div_note);

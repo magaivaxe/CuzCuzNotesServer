@@ -103,6 +103,14 @@ a{
     padding: 3px;
 }
 
+.imgPencil{
+    background: url(../images/pencil.png);
+}
+
+.imgDelete{
+    background: url(../images/delete.png);
+}
+
 .notes1 {
     background-color: rgb(244, 205, 86);
     border: 2px solid rgba(255, 200, 0, 0.664);
