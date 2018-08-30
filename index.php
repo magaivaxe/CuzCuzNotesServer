@@ -11,7 +11,7 @@ and open the template in the editor.
         <link rel="stylesheet" href="../CuzCuzNotesServer/css/style_index.css">
     </head>
     <body>
-        <form action="action_page.php">
+        <form action="login.php">
             <div class="imgcontainer">
                 <img src="../CuzCuzNotesServer/images/avatar.png" alt="Avatar" class="avatar">
             </div>
@@ -30,7 +30,7 @@ and open the template in the editor.
             </div>
 
             <div class="container" style="background-color:#f1f1f1">
-                <button type="button" class="cancelbtn">Cancel</button>
+                <button  type="button" class="cancelbtn">Cancel</button>
                 <span class="psw">Forgot <a href="#">password?</a></span>
             </div>
         </form>

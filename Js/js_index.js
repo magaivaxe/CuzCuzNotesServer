@@ -66,3 +66,9 @@ function chargerPage()
     });
 }
 
+function login() {
+    // Locals
+    let user = document.getElementsByTagName("input")[0].value;
+    let pw = document.getElementsByTagName("input")[1].value;
+    // Call php
+}
