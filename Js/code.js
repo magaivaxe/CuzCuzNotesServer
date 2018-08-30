@@ -21,7 +21,6 @@ function buildNote(){
   '</div>';
   mainDiv.appendChild(div_note);
   pushNote();
-  console.log(arrayNotes.length);
 }
 // Editable
 function editable(id_note,id_title,id_text) {
